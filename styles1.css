@@ -1,15 +1,9 @@
-body{
-    font-family: monospace;
-    overflow-x: hidden;
-    font-synthesis: 15px;
-}
+
 a{
     text-decoration: none;
 }
 .container{
-    width: 1400px;
-    margin: auto;
-    max-width: 95%;
+    max-width: 100%;
     transition: transform 1s;
 }
 /* change */
@@ -39,6 +33,9 @@ header .totalQuantity{
     justify-content: center;
     align-items: center;
     border-radius: 50%;
+
+    cursor: pointer;
+
     transform: translateX(20px);
 }
 .listProduct{

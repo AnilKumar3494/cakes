@@ -11,7 +11,6 @@
 }
 
 
-
 /* Global Classes */
 
 body{
@@ -21,7 +20,7 @@ body{
 }
 header{
     background: linear-gradient(to right, #6C7073, #E93036);
-    padding: 0.3rem 0.5rem;
+    padding: 0.3rem 1rem;
 }
 img{
     max-width: 100%;
@@ -47,7 +46,32 @@ nav{
 nav a{
     color: white;
 }
+header .iconCart{
+    position: relative;
+    z-index: 1;
+}
+header .totalQuantity{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: x-large;
+    background-color: #b31010;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
 
+    cursor: pointer;
+
+    transform: translateX(20px);
+}
+header i{
+    font-size: 2rem;
+}
 .logo-name{
     font-size: clamp(1.5rem, 5vw, 2.5rem);   
 }
