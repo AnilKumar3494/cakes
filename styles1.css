@@ -64,6 +64,7 @@ header .totalQuantity{
     top: 50%;
     left: 50%;
     background-color: #E8BC0E;
+    font-size: 1rem;
     color: black;
     width: 50%;
     border: none;
@@ -72,6 +73,9 @@ header .totalQuantity{
     cursor: pointer;
     transform: translateX(-50%) translateY(100px);
     opacity: 0;
+}
+.listProduct .item button:hover{
+    font-weight: bold;
 }
 .listProduct .item:hover button{
     transition:  0.5s;
