@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 100,
+        "image": "Styles/Images/cake-6.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 80,
+        "image": "Styles/Images/cake-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 50,
+        "image": "Styles/Images/cake-4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 60,
+        "image": "Styles/Images/cake-7.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 90,
+        "image": "Styles/Images/cake-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 120,
+        "image": "Styles/Images/cake-9.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "price": 10,
+        "image": "Styles/Images/cakeslice-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "price": 8,
+        "image": "Styles/Images/cakeslice-2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "price": 8,
+        "image": "Styles/Images/cakeslice-3.jpg"
+    }
+]
